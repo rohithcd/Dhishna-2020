@@ -1,0 +1,109 @@
+body
+{
+  background-color: #E4F9F5 !important;
+  background-image: url("https://cdn.pixabay.com/photo/2016/01/24/18/17/wall-1159348_960_720.jpg");
+
+}
+
+h1
+{
+  color: #ffffff;
+}
+.header
+{
+
+  font-family: 'Ubuntu';
+  text-align: center;
+  height: 10%;
+}
+
+/* center Division */
+
+.centre-1
+{
+  border: solid #DCDCDC 1px;
+  border-radius: 2%;
+  margin: 4rem;
+  margin-bottom: 3rem;
+  width: 500px;
+  padding: 5%;
+  background-color: #ffffff !important;
+}
+
+.text
+{
+  position:absolute;
+  left: 5rem;
+
+}
+
+.centre-2
+{
+  border: solid #DCDCDC 1px;
+  border-radius: 2%;
+  margin: 4rem;
+  margin-top: 2rem;
+  width: 500px;
+  padding: 5%;
+  background-color: #ffffff !important;
+}
+
+.button
+{
+  position: relative;
+  left: 30%;
+  margin-top: 6%;
+}
+
+/* Foot-Division */
+
+.footer
+{
+  background-color: #66BFBF !important;
+  margin-top: 20px;
+  padding: 30px ;
+  font-family: "Ubuntu";
+}
+
+.pics
+{
+  position: absolute;
+  right: 0.6rem;
+
+}
+
+.footer-link
+{
+  margin-left: 5px;
+
+}
+
+.domain:hover
+{
+  width: 36px;
+  height: 36px;
+}
+
+.twitter:hover
+{
+  width: 36px;
+  height: 36px;
+}
+
+.insta:hover
+{
+  width: 36px;
+  height: 36px;
+}
+
+.fb:hover
+{
+  width: 36px;
+  height: 36px;
+}
+
+
+.copyright
+{
+  margin-bottom: 0;
+}
